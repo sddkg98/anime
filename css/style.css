@@ -1,0 +1,12 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: aliceblue;
+}
+.fone img{
+ width: 300px;
+}
+.main h1{
+    text-align: center;
+    color: red;
+}
